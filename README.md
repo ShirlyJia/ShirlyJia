@@ -6,6 +6,9 @@
     <a href="https://github.com/ShirlyJia">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ShirlyJia-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
+    <a href="https://shirlyjia.github.io/">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-shirlyjia.github.io-0F766E?style=for-the-badge">
+    </a>
     <a href="https://www.ntu.edu.sg/">
       <img alt="NTU" src="https://img.shields.io/badge/NTU-FinTech%20Background-003D7C?style=for-the-badge">
     </a>
@@ -78,6 +81,7 @@ This profile is being shaped into a portfolio for product and AI/FinTech work. U
 ## Connect
 
 <p>
+  <a href="https://shirlyjia.github.io/">Portfolio</a> |
   <a href="https://github.com/ShirlyJia">GitHub</a> |
   <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>
 </p>
