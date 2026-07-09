@@ -1,19 +1,19 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:14B8A6&height=180&section=header&text=Shirly%20Jia&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=FinTech%20%7C%20AI%20Product%20%7C%20Data-driven%20Thinking&descSize=16&descAlignY=58" alt="Shirly Jia profile header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:14B8A6&height=180&section=header&text=Shirly%20Jia&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=FinTech%20%7C%20AI%20Product%20%7C%20Data-driven%20Strategy&descSize=16&descAlignY=58" alt="Shirly Jia profile header">
 
   <p>
     <a href="https://github.com/ShirlyJia">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ShirlyJia-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
     <a href="https://www.ntu.edu.sg/">
-      <img alt="NTU" src="https://img.shields.io/badge/NTU-MSc%20FinTech-003D7C?style=for-the-badge">
+      <img alt="NTU" src="https://img.shields.io/badge/NTU-FinTech%20Background-003D7C?style=for-the-badge">
     </a>
     <img alt="Singapore" src="https://img.shields.io/badge/Based%20in-Singapore-EF3340?style=for-the-badge">
   </p>
 
   <p>
-    <b>FinTech graduate student exploring AI product management, financial data, and intelligent digital experiences.</b>
+    <b>FinTech and AI product-oriented professional focused on data-driven strategy, user problems, and intelligent digital experiences.</b>
   </p>
 
 </div>
@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm an MSc FinTech student at Nanyang Technological University in Singapore. My current focus is learning how to turn financial scenarios, user needs, and data signals into practical product decisions.
+I have a FinTech background from Nanyang Technological University in Singapore. My current focus is turning financial scenarios, user needs, and data signals into practical product decisions.
 
 I am especially interested in the bridge between product management and technical execution: defining the right problem, understanding users and business constraints, working with data, and translating ideas into clear product requirements or prototypes.
 
